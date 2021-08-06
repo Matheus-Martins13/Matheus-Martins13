@@ -12,7 +12,7 @@
 
 ​                            🤝Busco ajudar a comunidade no que eu puder, para que todos possam evoluir juntos.
 
-​                  👨‍💻 Skills: **MySQL**, **SQL Server**, **Git**, **Python**, **HTML**, **PHP**, **WordPress**, **UML** and Linux.
+​                  👨‍💻 Skills: **MySQL**, **SQL Server**, **Git**, **Python**, **HTML**, **PHP**, **WordPress**, **UML** and **Linux**.
   
   <p align="center">
   💌 Envie uma mensagem: ⤵️
