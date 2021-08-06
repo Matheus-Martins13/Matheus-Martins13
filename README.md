@@ -17,6 +17,6 @@
   <p align="center">
   💌 Envie uma mensagem: ⤵️
 </p>  
-  <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/matheus-martins-52419a205//" alt="Linkedin">
+  <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/matheus-martins-52419a205/" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheus-martins-52419a205/" /></a>
 </p>  
