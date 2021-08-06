@@ -1,6 +1,6 @@
 <span align="center">
 
-## Olá seja bem-vindo(a)!
+## Olá, seja bem-vindo(a)!
 
 </span>
 
@@ -13,6 +13,7 @@
 ​                       🤝Busco ajudar a comunidade no que eu puder, para que todos possam evoluir juntos.
 
 ​                        👨‍💻 Habilidades: **MySQL**, **SQL Server**, **Git**, **Python**, **HTML**, **PHP**, **WordPress** e **UML**.
+  
 
 ###         Contato:
 
