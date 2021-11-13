@@ -23,7 +23,7 @@
 </div>
 <br>
 
-<div>
-  <img src="https://blogger.googleusercontent.com/img/a/AVvXsEiYMNMNNOdZh_ra3zsA8xDkGN3fHRwioTz-qK9bWUVYDtZIIHWrwEDzIqWlPy_YPfJQvvzqM0PEb3AA0dXvJCOlGisF55xq-QgG_rdt4MW2X8cQiHNm3cgoOfDQPkfB25IloyAHKcRLJJI0cDkpxBSl047086NX6IPrZcKlsWRCeju-JumbgNvTbRwm=w640-h360">
-</div> 
+
+<img align="center" src="https://blogger.googleusercontent.com/img/a/AVvXsEiYMNMNNOdZh_ra3zsA8xDkGN3fHRwioTz-qK9bWUVYDtZIIHWrwEDzIqWlPy_YPfJQvvzqM0PEb3AA0dXvJCOlGisF55xq-QgG_rdt4MW2X8cQiHNm3cgoOfDQPkfB25IloyAHKcRLJJI0cDkpxBSl047086NX6IPrZcKlsWRCeju-JumbgNvTbRwm=w640-h360">
+
   
