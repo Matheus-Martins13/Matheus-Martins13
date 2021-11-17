@@ -1,6 +1,6 @@
 ## Welcome to my development space!
 
-### Entre em contato comigo através do meu LinkedIn:
+### Entre em contato através do meu LinkedIn:
 
 <a href="https://www.linkedin.com/in/matheus-souza-martins/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
