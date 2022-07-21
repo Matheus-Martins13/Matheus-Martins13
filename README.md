@@ -29,9 +29,11 @@
 
   <h4>Frameworks</h4>
     <img alt="bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
+    <img alt="react" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
     <img alt="express" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg">
     <img alt="flask" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" />
     <img alt="django" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
+    
    
   <h4>Databases</h4>
     <img alt="postgresql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg">
